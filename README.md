@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mamaamacrivi-docker-mcp-tutorial-badge.png)](https://mseep.ai/app/mamaamacrivi-docker-mcp-tutorial)
+
 # 🐳 docker-mcp-tutorial - Build MCP Servers with Ease
 
 ## 📥 Download the Software
